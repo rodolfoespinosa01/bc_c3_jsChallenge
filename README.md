@@ -8,10 +8,11 @@ The main focus for this homework assignment was to create a javascript code that
 
 #### DEPLOYED APPLICATION GIT HUB SITE
 
-https://github.com/rodolfoespinosa01/bc_c3_jsChallenge
+https://rodolfoespinosa01.github.io/bc_c3_jsChallenge/
 
 #### APPLICATION REPOSITORY LINK
-https://rodolfoespinosa01.github.io/bc_c3_jsChallenge/
+
+https://github.com/rodolfoespinosa01/bc_c3_jsChallenge
 
 #### SCREENSHOT OF WEBSITE BELOW
 
