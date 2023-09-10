@@ -1,4 +1,4 @@
-# Project Ttitle
+# Project Title
 ## Generate Password Homework Challenge
 
 ## Description
