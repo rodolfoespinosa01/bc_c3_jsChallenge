@@ -26,14 +26,12 @@ function generatePassword() {
   if (includeSpecials) {
     combined += options[3];
   }
-
-  if (stringAmount < 8 || stringAmount > 128) {
-    alert('You must enter a number between 8 and 128.');
-    stringAmount = prompt('How many characters would you like?');
-  }
-
-  if (stringAmount > 128) {
-    alert('Your entry can not be more than 128 characters.');
+  while (stringAmount < 8 || stringAmount > 128) {
+    if (stringAmount < 8) {
+      alert('You must enter at least 8 characters');
+    } else if (stringAmount > 128) {
+      alert('Your entry cannot be more than 128 characters.');
+    }
     stringAmount = prompt('How many characters would you like?');
   }
 
