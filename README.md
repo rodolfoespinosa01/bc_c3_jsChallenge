@@ -17,9 +17,7 @@ https://github.com/rodolfoespinosa01/bc_c3_jsChallenge
 #### SCREENSHOT OF WEBSITE BELOW
 
 
-![Alt text](1.png) ![Alt text](2.png) ![Alt text](3.png)  
-![Alt text](4.png) ![Alt text](5.png) ![Alt text](6.png) 
-![Alt text](7.png)
+![Alt text](assets/img/1.png) ![Alt text](assets/img/2.png) ![Alt text](assets/img/3.png) ![Alt text](assets/img/4.png) ![Alt text](assets/img/5.png) ![Alt text](assets/img/6.png) ![Alt text](assets/img/7.png)
 
 
 
